@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aadiaz7, Adrian Diaz
-- 👀 I’m interested in learning about programming laguages, technology, cryptos, and so on. I consider myself a curious person.
+- 👀 I’m interested in learning about programming languages, technology, cryptos, and so on. I consider myself a curious person.
 - 🌱 I’m currently learning HTML/CSS, Javascript, Python, Docker, Kubernetes, Cloud Computing(AWS/Azure/GCP), etc.
 - 💞️ I’m looking to collaborate on any technology project, i love to learn new things, so i'm open to work in any project.
 - 📫 How to reach me, email: adriandiaz_7@hotmail.com 
